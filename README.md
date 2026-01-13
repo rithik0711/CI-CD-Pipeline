@@ -26,5 +26,4 @@ The pipeline ensures that every code update is built into a Docker image and dep
 
 ---
 
-## Deployment Flow
 
